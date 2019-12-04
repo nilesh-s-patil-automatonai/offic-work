@@ -1,0 +1,6 @@
+
+/usr/bin/ssh-copy-id: ERROR: invalid option (-ftest@192.168.0.57)
+
+
+/usr/bin/ssh-copy-id: ERROR: invalid option (-ftest@192.168.0.56)
+

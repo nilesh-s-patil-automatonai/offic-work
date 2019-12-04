@@ -1,0 +1,11 @@
+192.168.0.57:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  938G  113G  778G  13% /
+
+192.168.0.56:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  938G  354G  537G  40% /
+
+192.168.0.167:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  454G  145G  286G  34% /
